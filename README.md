@@ -9,7 +9,7 @@ Task 3 @ Elevvo ML Internship
 5.Plot actual vs. predicted values over time.
 
 ## Dataset
-- [Saled Forecasting](https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast)
+- [Sales Forecasting](https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast)
 
 ## Notebook
 - [Sales Forecasting]()
