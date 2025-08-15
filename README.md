@@ -8,6 +8,10 @@ Task 3 @ Elevvo ML Internship
 4. Apply regression models to forecast next period's sales.
 5.Plot actual vs. predicted values over time.
 
+### Bonus:
+1. Use rolling averages and seasonal decomposition.
+2. Apply XGBoost or LightGBM with time-aware validation.
+
 ## Dataset
 - [Sales Forecasting](https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast)
 
