@@ -16,4 +16,4 @@ Task 3 @ Elevvo ML Internship
 - [Sales Forecasting](https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast)
 
 ## Notebook
-- [Sales Forecasting]()
+- [Sales Forecasting](https://github.com/Asma-Nasr/Sales-Forecasting/blob/main/sales_forecasting.ipynb)
