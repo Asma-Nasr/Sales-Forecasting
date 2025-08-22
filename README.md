@@ -17,3 +17,18 @@ Task 3 @ Elevvo ML Internship
 
 ## Notebook
 - [Sales Forecasting](https://github.com/Asma-Nasr/Sales-Forecasting/blob/main/sales_forecasting.ipynb)
+
+## Performance Comparison
+
+| Models                                        | Mean Squared Error | R2 Score  |
+|-----------------------------------------------|---------------------|-----------|
+| Linear Regression                             | 37871290.84         | 0.92616   |
+| XGBoost                                       | 11324349.62         | 0.97792   |
+| LGBM                                          | 14459745.28         | 0.97180   |
+| Linear Regression with Scaled data           | 0.00                | 0.92616   |
+| XGBoost with Scaled Data                     | 0.00                | 0.97767   |
+| LGBM with Scaled Data                        | 0.00                | 0.97268   |
+| XGBoost Hyperparameter Tuned                  | 10539729.03         | 0.97945   |
+| LGBM Hyperparameter Tuned                     | 10717770.84         | 0.97910   |
+| XGBoost Hyperparameter Tuned and Data Scaled | 0.00                | 0.97914   |
+| LGBM Hyperparameter Tuned and Data Scaled    | 0.00                | 0.97916   |
